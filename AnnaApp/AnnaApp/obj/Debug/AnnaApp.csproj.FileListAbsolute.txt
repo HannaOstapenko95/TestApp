@@ -1,0 +1,13 @@
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\bin\Debug\AnnaApp.exe.config
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\bin\Debug\AnnaApp.exe
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\bin\Debug\AnnaApp.pdb
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\obj\Debug\AnnaApp.csprojAssemblyReference.cache
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\obj\Debug\AnnaApp.csproj.CoreCompileInputs.cache
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\obj\Debug\AnnaApp.exe
+C:\Users\Odmen-programist\source\repos\AnnaApp\AnnaApp\obj\Debug\AnnaApp.pdb
+C:\test\AnnaApp\AnnaApp\bin\Debug\AnnaApp.exe.config
+C:\test\AnnaApp\AnnaApp\bin\Debug\AnnaApp.exe
+C:\test\AnnaApp\AnnaApp\bin\Debug\AnnaApp.pdb
+C:\test\AnnaApp\AnnaApp\obj\Debug\AnnaApp.csprojAssemblyReference.cache
+C:\test\AnnaApp\AnnaApp\obj\Debug\AnnaApp.exe
+C:\test\AnnaApp\AnnaApp\obj\Debug\AnnaApp.pdb
